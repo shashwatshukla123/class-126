@@ -1,0 +1,10 @@
+Create a react native app to pick images 
+Host the API online using ngrok software
+
+Create a react native app to make a Post request on the API through the API 
+
+download unzip and install ngrok
+Ngrok is a command line software that allows the developers to use their local server on ther internet 
+ngrok creates a secure tunnel to locally host the applications using a reverse proxy 
+
+It provides a publicly accesibly web url to any locally hosted application
